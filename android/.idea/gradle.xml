@@ -11,7 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/../plugins/image_picker-0.8.4+11/android" />
-            <option value="$USER_HOME$/flutter2.8.1/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.5/android" />
+            <option value="$USER_HOME$/flutter2.10.1/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.5/android" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
