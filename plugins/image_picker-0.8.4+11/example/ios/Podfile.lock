@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_picker (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - OCMock (3.8.1)
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - OCMock (~> 3.8.1)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OCMock
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  image_picker: fd154487bc7311d45ede4015ff17325b0899c0c2
+  integration_test: a1e7d09bd98eca2fc37aefd79d4f41ad37bdbbe5
+  OCMock: 29f6e52085b4e7d9b075cbf03ed7c3112f82f934
+  video_player_avfoundation: e489aac24ef5cf7af82702979ed16f2a5ef84cff
+
+PODFILE CHECKSUM: 57ea3080816c53b19a0f8baf8e1b3f33d21a6ace
+
+COCOAPODS: 1.11.2

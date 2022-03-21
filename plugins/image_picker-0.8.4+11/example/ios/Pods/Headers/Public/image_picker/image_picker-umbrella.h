@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/image_picker/ios/Classes/image_picker-umbrella.h

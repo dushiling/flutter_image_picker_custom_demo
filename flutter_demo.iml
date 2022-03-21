@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/plugins/image_picker_platform_interface-2.4.4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/plugins/image_picker_platform_interface-2.4.4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/plugins/image_picker_platform_interface-2.4.4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/plugins/image_picker_platform_interface-2.4.4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/plugins/image_picker_platform_interface-2.4.4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/plugins/image_picker_platform_interface-2.4.4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/image_picker-0.8.4+11/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/integration_test_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/video_player_avfoundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/integration_test_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/image_picker/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.pub" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
